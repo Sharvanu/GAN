@@ -1,2 +1,12 @@
-# GAN
-A clean and modular implementation of a Generative Adversarial Network (GAN) built using TensorFlow. The project includes training loops, dataset preprocessing, model architecture (Generator + Discriminator), and visualization of generated images. Ideal for beginners, researchers, and ML engineers experimenting with GANs.
+# 🧠 Generative Adversarial Network (GAN) – Implementation
+
+This repository contains a clean, well-structured implementation of a **Generative Adversarial Network (GAN)**.  
+It includes the full workflow: data loading, preprocessing, model architecture, training, and result visualization.
+
+## 🚀 Features
+- Modular **Generator** and **Discriminator** architecture  
+- Training loop with loss tracking  
+- Image saving after each epoch  
+- Configurable hyperparameters  
+- Support for custom datasets  
+- Easy-to-read and extendable code structure
